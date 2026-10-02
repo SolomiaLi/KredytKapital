@@ -1,0 +1,4 @@
+segment,total_loans,total_principal,total_forecast,total_actual,variance_abs,variance_pct
+Consumer_Micro,497,80994792.0,563254.32,504004.24,-59250.08,-10.52
+Cash_Loan,350,246166980.0,1197104.39,1132072.02,-65032.37,-5.43
+Auto_Legacy,153,340123764.0,983385.34,932157.85,-51227.49,-5.21
